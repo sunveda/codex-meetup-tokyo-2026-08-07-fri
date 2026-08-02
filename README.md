@@ -1,4 +1,4 @@
-# Codex Meetup Tokyo #2 - LT Topic Proposals
+# Codex Meetup Tokyo #2 - LT発表テーマ案
 
 **開催日: 2026年8月7日（金）**
 
