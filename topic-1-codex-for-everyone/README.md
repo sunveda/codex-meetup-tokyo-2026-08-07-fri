@@ -1,29 +1,38 @@
 # Codexはエンジニアだけのものじゃない
 
-**Codex Meetup Tokyo #2 - 2026年8月7日（金）**
+**Codex Meetup Tokyo #2 — 2026年8月7日（金）／5分LT**
 
-## サブタイトル
+自然な言葉から成果物をつくる、非エンジニアのためのCodex活用法。
 
-自然な言葉から仕事を完成させる、非エンジニアのためのCodex活用法
+## 発表資料 / Presentation files
 
-## 概要
+- [PDFを開く / Open PDF](./codex-for-everyone-bilingual.pdf)
+- [PowerPointをダウンロード / Download PPTX](./codex-for-everyone-bilingual.pptx)
+- [日英スピーカーノート / Bilingual talk script](./talk-script-bilingual.md)
 
-Codexはコーディングツールとして紹介されることが多いですが、非エンジニアの日常的な仕事にも活用できます。
+## 5分間のデモ / Five-minute demo
 
-このLTでは、プログラミングの知識がない人でも、自然な言葉で目的を伝えることで、Codexと一緒に情報を調べ、PDFや資料を理解し、アイデアを整理し、文章を作成し、最終的な成果物を完成させられることを、具体的なデモを通して紹介します。
+会場からテーマをひとつもらい、Codexに自然な言葉で指示します。Codexがバイリンガルの1ページサイトを作っている間に、5人のための10の使い方を紹介します。
 
-非エンジニアがCodexを効果的に使うためのシンプルな方法として、「欲しい結果」「必要な背景情報」「守ってほしい条件」を伝え、途中で確認しながら一緒に完成度を高める進め方も紹介します。
+We take one topic from the audience and give Codex one plain-language command. While Codex builds a bilingual one-page website, the talk shows ten outcomes for five kinds of people.
 
-## デモの流れ
+| 人 / Person | 2つの成果 / Two outcomes |
+|---|---|
+| 店主 / Owner | メニュー＋サイト / Menu + site |
+| 先生 / Teacher | 授業＋クイズ / Lesson + quiz |
+| 分析する人 / Analyst | 表＋判断 / Sheet + decision |
+| クリエイター / Creator | ビジュアル＋発信計画 / Visual + plan |
+| 主催者 / Organizer | イベント＋仲間 / Event + community |
 
-1. 日常の言葉で目的を伝える
-2. PDFや資料から重要な情報を理解する
-3. 必要な情報を整理し、次の行動を提案してもらう
-4. メッセージや資料などの成果物を作る
-5. 内容を確認し、Codexと一緒に改善する
+## メッセージ / Message
 
-## 参加者に持ち帰ってほしいこと
+Codexを使うために、プログラミングを理解する必要はありません。大切なのは、欲しい結果を自然な言葉で伝え、作られたものを見ながら一緒に改善することです。
 
-Codexを使うために、プログラミングを理解する必要はありません。大切なのは、目的と背景を伝え、結果を確認しながら一緒に仕事を進めることです。
+You do not need to understand programming to use Codex. Describe the result you want in natural language, inspect what it creates, and improve it together.
 
-[2つのテーマ一覧に戻る](../README.md)
+## つながる / Connect
+
+- Website: [sunveda.tech](https://sunveda.tech)
+- LINE community: **今こそAI｜Learn AI Now**
+
+[2つのテーマ一覧に戻る / Back to both topics](../README.md)
