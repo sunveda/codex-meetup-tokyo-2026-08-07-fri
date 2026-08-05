@@ -32,14 +32,13 @@ You do not need to understand programming to use Codex. Describe the result you 
 
 ## つながる / Connect
 
-- Website: [sunveda.tech](https://sunveda.tech)
-- LINE community: **今こそAI｜Learn AI Now**
+- SunVeda Technologies: [sunveda.tech](https://sunveda.tech)
+- LINE OpenChat: **今こそAI｜Learn AI Now** — anyone can join / 誰でも参加できます
 
 ## ビジュアル出典 / Visual credits
 
-- Codex Meetup Tokyo #1 at Mercari: [event report and photo](https://cool-ryo.hatenablog.com/entry/2026/03/21/203614)
-- Venue confirmation: [Codex Meetup Tokyo #1 on connpass](https://aiau.connpass.com/event/384679/)
 - Mercari logo: [official Mercari asset](https://about.mercari.com/images/common/mercari_logo.svg)
-- Presenter portrait: provided by Sarveshwar Singh
+- Presenter illustration: generated from a portrait provided by Sarveshwar Singh
+- AI-genie concept: original visual generated for this presentation from a user-provided concept reference
 
 [2つのテーマ一覧に戻る / Back to both topics](../README.md)

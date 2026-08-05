@@ -2,9 +2,9 @@
 
 ## 0:00–0:20 — Audience topic
 
-**English:** First, thank you to Mercari for welcoming the Codex community again. I need one topic from the audience—anything: food, travel, education, or a local problem.
+**English:** We are at Mercari for Codex Meetup Tokyo. I need one topic from the audience—anything: food, travel, education, or a local problem.
 
-**日本語:** まずは、Codexコミュニティを再び迎えてくださったメルカリの皆さまに感謝します。みなさんからテーマをひとつください。食べ物、旅行、教育、地域の課題、何でも大丈夫です。
+**日本語:** メルカリで開催されるCodex Meetup Tokyoです。みなさんからテーマをひとつください。食べ物、旅行、教育、地域の課題、何でも大丈夫です。
 
 ## 0:20–0:45 — One command
 
@@ -28,17 +28,25 @@
 
 Keep each example to about 30 seconds: name the person, show the two outputs, and move on.
 
-## 3:20–4:05 — Reveal
+## 3:20–3:55 — Reveal
 
 **English:** Now let us return to Codex and see what one idea plus one command created. If it needs a change, give me one improvement.
 
 **日本語:** ではCodexに戻りましょう。アイデアひとつ、指示ひとつで、何ができたか見てみます。改善点があれば、ひとつ教えてください。
 
-## 4:05–5:00 — Introduction and invitation
+## 3:55–4:20 — One last idea
 
-**English:** I am Sarveshwar Singh from Sunveda. I am building a community where people learn and teach AI together—especially people who do not call themselves technical. Scan the website or join our LINE community. Thank you.
+**English:** AI is like a genie that can grant unlimited wishes, but it cannot read our minds. The clearer we are about the result, context, and constraints, the better the result becomes.
 
-**日本語:** SunvedaのSarveshwar Singhです。技術者でない人も含め、みんなでAIを学び、教え合うコミュニティを作っています。ウェブサイト、またはLINEコミュニティから参加してください。ありがとうございました。
+**日本語:** AIは、何度でも願いをかなえる魔法使いのようです。でも、私たちの心は読めません。欲しい結果、背景、条件を明確に伝えるほど、結果は良くなります。
+
+**Slide line:** Clearer wish → Better result / 願いの明確さが、結果を決める。
+
+## 4:20–5:00 — Introduction and invitation
+
+**English:** I am Sarveshwar Singh from SunVeda Technologies. I am building a community where people learn and teach AI together—especially people who do not call themselves technical. Scan the website, or join our LINE OpenChat. Anyone can join. Thank you.
+
+**日本語:** SunVeda TechnologiesのSarveshwar Singhです。技術者でない人も含め、みんなでAIを学び、教え合うコミュニティを作っています。ウェブサイト、または誰でも参加できるLINEオープンチャットから参加してください。ありがとうございました。
 
 ## Live-demo safety
 
