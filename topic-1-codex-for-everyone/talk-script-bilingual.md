@@ -2,9 +2,9 @@
 
 ## 0:00–0:20 — Audience topic
 
-**English:** I need one topic from the audience—anything: food, travel, education, or a local problem.
+**English:** First, thank you to Mercari for welcoming the Codex community again. I need one topic from the audience—anything: food, travel, education, or a local problem.
 
-**日本語:** みなさんからテーマをひとつください。食べ物、旅行、教育、地域の課題、何でも大丈夫です。
+**日本語:** まずは、Codexコミュニティを再び迎えてくださったメルカリの皆さまに感謝します。みなさんからテーマをひとつください。食べ物、旅行、教育、地域の課題、何でも大丈夫です。
 
 ## 0:20–0:45 — One command
 
