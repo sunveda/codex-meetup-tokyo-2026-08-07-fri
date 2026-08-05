@@ -37,6 +37,7 @@ You do not need to understand programming to use Codex. Describe the result you 
 
 ## ビジュアル出典 / Visual credits
 
+- Opening stage: augmented from a [Codex Meetup Tokyo #1 event photo](https://cool-ryo.hatenablog.com/entry/2026/03/21/203614)
 - Mercari logo: [official Mercari asset](https://about.mercari.com/images/common/mercari_logo.svg)
 - Presenter illustration: generated from a portrait provided by Sarveshwar Singh
 - AI-genie concept: original visual generated for this presentation from a user-provided concept reference
